@@ -1,5 +1,5 @@
 ---
 layout: home
 icon: fas fa-archive
-order: 6
+order: 5
 ---
